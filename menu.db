@@ -1,0 +1,17 @@
+{"id":16,"title":"Strawberry Cheesecake","desc":"A creamy cheesecake topped with fresh strawberries.","price":45,"createdAt":{"$$date":1718453904508},"_id":"0i4APW4jpjWAPLr5"}
+{"id":4,"title":"Latte Macchiato","desc":"Bryggd på månadens bönor.","price":49,"createdAt":{"$$date":1718453208029},"_id":"1ZagDJ6Vpn47zpKp"}
+{"id":17,"title":"Pecan Pie","desc":"A rich pie filled with caramelized pecans.","price":50,"createdAt":{"$$date":1718453933386},"_id":"5xNvgpddtfZTaQwl"}
+{"id":9,"title":"Chocolate Croissant","desc":"A flaky croissant filled with rich chocolate.","price":29,"createdAt":{"$$date":1718453671485},"_id":"8jPOQAzDkFU5IR8v"}
+{"id":6,"title":"Cortado","desc":"Bryggd på månadens bönor.","price":39,"createdAt":{"$$date":1718453247541},"_id":"93j7DxrhBF23HaxG"}
+{"id":18,"title":"Banana Bread","desc":"A moist bread made with ripe bananas.","price":20,"createdAt":{"$$date":1718453972009},"_id":"GECGkAY6cTGbQmGY"}
+{"id":12,"title":"Lemon Tart","desc":"A tart with a zesty lemon filling.","price":35,"createdAt":{"$$date":1718453749174},"_id":"GTsr8RmeOVSlfbdq"}
+{"id":18,"title":"Banana Bread","desc":"A moist bread made with ripe bananas.","price":20,"createdAt":{"$$date":1718454228294},"_id":"LFNSgdCsJK2SB1wp"}
+{"id":13,"title":"Apple Pie","desc":"A classic pie with a spiced apple filling.","price":40,"createdAt":{"$$date":1718453788601},"_id":"LsAUJ8RwVBVTd2n3"}
+{"id":5,"title":"Kaffe Latte","desc":"Bryggd på månadens bönor.","price":54,"createdAt":{"$$date":1718453230916},"_id":"NWzxqV9VWs7czMz8"}
+{"id":2,"title":"Caffè Doppio","desc":"Bryggd på månadens bönor.","price":49,"createdAt":{"$$date":1718453175534},"_id":"TNWUvnepz07C9x7g"}
+{"id":11,"title":"Cinnamon Roll","desc":"A sweet roll with a cinnamon-sugar filling.","price":30,"createdAt":{"$$date":1718453730288},"_id":"Zr34MvEDvse7TgrC"}
+{"id":14,"title":"Almond Biscotti","desc":"A crunchy biscotti with almond pieces.","price":15,"createdAt":{"$$date":1718453834198},"_id":"cYW7vigAUUhjkEgR"}
+{"id":10,"title":"Blueberry Muffin","desc":"A soft muffin packed with fresh blueberries.","price":25,"createdAt":{"$$date":1718453703909},"_id":"jTajDdabLcXRLu1z"}
+{"id":1,"title":"Bryggkaffe","desc":"Bryggd på månadens bönor.","price":39,"createdAt":{"$$date":1718453132520},"_id":"nB1larkUBDypY7Qs"}
+{"id":3,"title":"Cappuccino","desc":"Bryggd på månadens bönor.","price":49,"createdAt":{"$$date":1718453191122},"_id":"qV3sigkjuQFVlzeo"}
+{"id":15,"title":"Vanilla Éclair","desc":"An éclair filled with creamy vanilla custard.","price":32,"createdAt":{"$$date":1718453869456},"_id":"r8LfsJl1TKqP0FG5"}
